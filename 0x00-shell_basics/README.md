@@ -1,3 +1,1 @@
-script tha
-
-t prints the absolute path name of the current working directory
+Display the content of your current directory contents in a long format
